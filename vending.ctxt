@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=vending
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ vending\ here.\r\n\r\n\ @Kamran\ Warraich\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=vending()
+comment2.params=selection
+comment2.target=void\ retrievePrice(int)
+comment3.params=price
+comment3.target=void\ moneyInserted(int)
+numComments=4
